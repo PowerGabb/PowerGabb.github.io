@@ -3,8 +3,10 @@ body {
 .jumbotron {
   padding-top: 6rem;
   background-color: #6b7179;
+  visibility: hidden;
 }
 
 section {
   padding-top: 5rem;
+  visibility: hidden;
 }
